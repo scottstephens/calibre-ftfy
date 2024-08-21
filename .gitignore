@@ -1,0 +1,6 @@
+
+# Vendored dependencies, created by poetry and vendor_deps script
+deps/
+
+# Built bundles
+calibre-ftfy_*.zip
