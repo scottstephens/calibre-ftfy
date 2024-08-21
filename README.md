@@ -30,6 +30,6 @@ Into this:
 6. Most logic is in main.py
 
 ## Building a release
-1. Edit version numbers in pyproject.toml, __init__.py, and vendor_deps.sh
+1. Edit version numbers in pyproject.toml, __init__.py, and bundle_release.sh
 2. Run `./bundle_release.sh`
 3. Upload resulting zip file manually to github
